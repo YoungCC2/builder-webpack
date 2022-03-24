@@ -1,0 +1,221 @@
+{
+	"error": [],
+	"extra": [],
+	"data": [{
+		"list": [{
+			"id": 7274,
+			"name": "Java工程师",
+			"icon": "https:\/\/static001.geekbang.org\/resource\/image\/ee\/9d\/ee4e027522f8f7144b12bcd3d8f6b29d.jpg",
+			"product_count": 22,
+			"redirect_vars": {
+				"path_id": 1
+			},
+			"redirect_type": "urlscheme",
+			"score": 173381560961,
+			"redirect_param": "time:\/\/nativeWebView?url=https:\/\/time.geekbang.org\/learning\/path-detail\/1&canHiddenNavigationBarBackgroundView=1",
+			"total_sub_count": 377226
+		}, {
+			"id": 7275,
+			"name": "架构师",
+			"icon": "https:\/\/static001.geekbang.org\/resource\/image\/30\/36\/304bfd86dea2698cd6c8147ee8f63c36.jpg",
+			"product_count": 23,
+			"redirect_vars": {
+				"path_id": 5
+			},
+			"redirect_type": "urlscheme",
+			"score": 130431888018,
+			"redirect_param": "time:\/\/nativeWebView?url=https:\/\/time.geekbang.org\/learning\/path-detail\/5&canHiddenNavigationBarBackgroundView=1",
+			"total_sub_count": 453219
+		}, {
+			"id": 7273,
+			"name": "计算机基础知识",
+			"icon": "https:\/\/static001.geekbang.org\/resource\/image\/0a\/4e\/0a03a1e02f4a4bee36989b5a8183274e.jpg",
+			"product_count": 11,
+			"redirect_vars": {
+				"path_id": 3
+			},
+			"redirect_type": "urlscheme",
+			"score": 87482214298,
+			"redirect_param": "time:\/\/nativeWebView?url=https:\/\/time.geekbang.org\/learning\/path-detail\/3&canHiddenNavigationBarBackgroundView=1",
+			"total_sub_count": 332455
+		}, {
+			"id": 7279,
+			"name": "Python工程师",
+			"icon": "https:\/\/static001.geekbang.org\/resource\/image\/d6\/18\/d6cc801441d3a8ed981e2b2665d84518.jpg",
+			"product_count": 19,
+			"redirect_vars": {
+				"path_id": 7
+			},
+			"redirect_type": "urlscheme",
+			"score": 44532571048,
+			"redirect_param": "time:\/\/nativeWebView?url=https:\/\/time.geekbang.org\/learning\/path-detail\/7&canHiddenNavigationBarBackgroundView=1",
+			"total_sub_count": 349705
+		}, {
+			"id": 7356,
+			"name": "测试工程师",
+			"icon": "https:\/\/static001.geekbang.org\/resource\/image\/d9\/1c\/d939189d3152c6d408d2408013608d1c.jpg",
+			"product_count": 16,
+			"redirect_vars": {
+				"path_id": 6
+			},
+			"redirect_type": "urlscheme",
+			"score": 18763177725,
+			"redirect_param": "time:\/\/nativeWebView?url=https:\/\/time.geekbang.org\/learning\/path-detail\/6&canHiddenNavigationBarBackgroundView=1",
+			"total_sub_count": 233431
+		}],
+		"block_title": "学习路径",
+		"page": {
+			"count": 5,
+			"more": false
+		},
+		"block_type": 21,
+		"block_id": 60,
+		"block_name": "lecture_path",
+		"product_type": "b21",
+		"nav_id": 0
+	}, {
+		"list": [{
+			"banner_utm_term": "banner4594",
+			"banner_cover": "https:\/\/static001.geekbang.org\/resource\/image\/43\/f6\/438314f07723f5987c9c8d155075b4f6.jpg",
+			"id": 13921,
+			"banner_title": "6.16第一轮播图-内容测试",
+			"score": 22485777567360,
+			"banner_redirect_type": "article",
+			"banner_redirect_param": "384783"
+		}, {
+			"banner_redirect_type": "product",
+			"id": 13935,
+			"banner_utm_term": "banner4599",
+			"extra": {
+				"column_sku": "100081501",
+				"column_type": 1,
+				"product_type": "c1",
+				"column_id": 420,
+				"had_sub": false
+			},
+			"banner_cover": "https:\/\/static001.geekbang.org\/resource\/image\/8f\/ed\/8fbb5c66dbb371a1ebb197fcd557ebed.jpg",
+			"banner_redirect_param": "100081501",
+			"banner_title": "6.16第二轮播图-上新",
+			"score": 22481482661264
+		}, {
+			"banner_utm_term": "banner4595",
+			"banner_cover": "https:\/\/static001.geekbang.org\/resource\/image\/fa\/f8\/fa585e470150df18206f13ae20df79f8.jpg",
+			"id": 13922,
+			"banner_title": "6.16第三轮播图-算法封班",
+			"score": 22477187632768,
+			"banner_redirect_type": "article",
+			"banner_redirect_param": "382931"
+		}, {
+			"banner_utm_term": "banner4596",
+			"banner_cover": "https:\/\/static001.geekbang.org\/resource\/image\/4a\/35\/4a35c7cb7fffea8e8ef5d36fa31a0135.jpg",
+			"id": 13923,
+			"banner_title": "6.16第四轮播图-商城充值",
+			"score": 22472892665472,
+			"banner_redirect_type": "urlscheme",
+			"banner_redirect_param": "time:\/\/mall?url=https%3A%2F%2Fshop18793264.m.youzan.com%2Fwscgoods%2Fdetail%2F360e5pgbhzmbc%3Fscan%3D1%26activity%3Dnone%26from%3Dkdt%26qr%3Ddirectgoods_929955430%26shopAutoEnter%3D1"
+		}, {
+			"banner_utm_term": "banner4597",
+			"banner_cover": "https:\/\/static001.geekbang.org\/resource\/image\/83\/62\/831e9e9ccc0f6a11d3f632a7c6fce162.jpg",
+			"id": 13924,
+			"banner_title": "6.16第五轮播图-企业",
+			"score": 22468597698176,
+			"banner_redirect_type": "url",
+			"banner_redirect_param": "https:\/\/b.geekbang.org\/article\/382861?utm_source=geektime&utm_medium=app&utm_campaign=618&gk_source=2021060801_geektimeapp_618"
+		}],
+		"block_title": "热门推荐",
+		"page": {
+			"count": 5,
+			"more": false
+		},
+		"block_type": 1,
+		"block_id": 8,
+		"block_name": "explore_banner",
+		"product_type": "b1",
+		"nav_id": 0
+	}, {
+		"list": [{
+			"redirect_type": "url",
+			"cover_web": "https:\/\/static001.geekbang.org\/resource\/image\/7e\/00\/7e49083d4debf312f7cf5ba96af61f00.png",
+			"id": 13920,
+			"redirect_param": "https:\/\/b.geekbang.org\/article\/383989",
+			"score": 340926016384
+		}],
+		"block_title": "活动推荐",
+		"page": {
+			"count": 2,
+			"more": true
+		},
+		"block_type": 19,
+		"block_id": 81,
+		"block_name": "cm_web_lecture_ad001",
+		"product_type": "b19",
+		"nav_id": 0
+	}, {
+		"list": [{
+			"live_cover": "https:\/\/static001.geekbang.org\/resource\/image\/24\/18\/24b3d1033b1b0d7588789e0ca195ab18.jpg",
+			"live_guest": "攻克算法——打硬战之前的准备",
+			"id": 13807,
+			"live_url": "https:\/\/live.geekbang.org\/room\/929?utm_source=app&utm_medium=geeklive&utm_campaign=promotion&utm_content=live",
+			"live_id": 929,
+			"subed": false,
+			"live_status": 3,
+			"score": 469774614064,
+			"live_start": 1623844800,
+			"live_title": "算法训练营 2021 版第 0 期开学典礼"
+		}, {
+			"live_cover": "https:\/\/static001.geekbang.org\/resource\/image\/1d\/d1\/1d585a33d3405978758bb4cdfbb2b8d1.jpg",
+			"live_guest": "前阿里 P9 揭秘 Zookeeper 的高可用特性和应用场景",
+			"id": 13916,
+			"live_url": "https:\/\/live.geekbang.org\/room\/936?utm_source=app&utm_medium=geeklive&utm_campaign=promotion&utm_content=live",
+			"live_id": 936,
+			"subed": false,
+			"live_status": 1,
+			"score": 465480165168,
+			"live_start": 1623931200,
+			"live_title": "如何用 Zookeeper 实现高可用架构"
+		}, {
+			"live_cover": "https:\/\/static001.geekbang.org\/resource\/image\/d0\/7d\/d0c56a9fc8440c3a939096b0c610c77d.jpg",
+			"live_guest": "高效学习底层原理知识的秘诀",
+			"id": 13932,
+			"live_url": "https:\/\/live.geekbang.org\/room\/940?utm_source=app&utm_medium=geeklive&utm_campaign=promotion&utm_content=live",
+			"live_id": 940,
+			"subed": false,
+			"live_status": 1,
+			"score": 461185284272,
+			"live_start": 1623929400,
+			"live_title": "如何串联学习，操作系统和组成原理？"
+		}],
+		"block_title": "极客Live",
+		"page": {
+			"count": 5,
+			"more": true
+		},
+		"block_type": 5,
+		"block_id": 9,
+		"more": {
+			"count": 6
+		},
+		"block_name": "hot_live",
+		"product_type": "b5",
+		"nav_id": 0
+	}, {
+		"list": [{
+			"redirect_type": "urlscheme",
+			"cover_web": "https:\/\/static001.geekbang.org\/resource\/image\/56\/c4\/56f0a200be3eab4f0abdeb211b33b2c4.png",
+			"id": 13854,
+			"redirect_param": "time:\/\/mall?url=https%3A%2F%2Fshop18793264.m.youzan.com%2Fwscgoods%2Fdetail%2F360e5pgbhzmbc%3Fscan%3D1%26activity%3Dnone%26from%3Dkdt%26qr%3Ddirectgoods_929955430%26shopAutoEnter%3D1",
+			"score": 61752969344
+		}],
+		"block_title": "商城活动",
+		"page": {
+			"count": 1,
+			"more": false
+		},
+		"block_type": 19,
+		"block_id": 82,
+		"block_name": "cm_web_lecture_ad002",
+		"product_type": "b19",
+		"nav_id": 0
+	}],
+	"code": 0
+}
